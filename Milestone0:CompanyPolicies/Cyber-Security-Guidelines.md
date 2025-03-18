@@ -1,6 +1,6 @@
 # Cyber Security Guidelines
 
-**What security measures do you currently follow, and where can you improve?**
+**What security measures do you currently follow, and where can you improve?**  
  I use a password manager to save my passwords for currently used accounts so that I can use strong randomly generated passwords, I however have some older accounts that are not in use for non-critical services that could potentially be at risk from data breaches, and even though the passwords are redundant should still be cleaned up. I lock my colaptop when not in use and use passcodes and biometrics for security. 
 
 **How can you make secure behaviour a habit rather than an afterthought?**
