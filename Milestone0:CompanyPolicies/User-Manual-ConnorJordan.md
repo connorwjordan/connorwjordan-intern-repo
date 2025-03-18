@@ -1,4 +1,5 @@
-User Manual for Connor Jordan
+# User Manual for Connor Jordan
+
 My role
 I am working on my onboarding tasks as a product manager intern.
 The days and times I work are: Friday 10am - 
@@ -35,7 +36,7 @@ Clearly set goals and deadlines that I am able to work towards.
 Feedback & Growth
 I like feedback to be direct, if there is something that is not to standard I want to be able to improve it. Specific examples are useful so that I can see exactly what is needed to fix my work.
 
-When I make a mistake, the best way to let me know is contacting me directly either in person or via message on discord.
+When I make a mistake, the best way to let me know is contacting me directly either in person or via message on discord, and if possible to give feedback or any criticisms that could help to my ability to fix the mistake and not make it again in the future.
 
 I appreciate it when teammates…
 Are able to speak openly to me with both encouragement and constructive criticism.
