@@ -6,3 +6,8 @@ Agile can be overwhelming for some as continuous communication and work is impor
 
 **How can Agile principles help improve your role and responsibilities?**  
 It can help me as they show that its important to plan out work and have set goals/deliverables but to also be flexible and have the ability to adapt to new problems or tasks so that you are able to deal with anything critical when it comes up. It also helps with getting continuous work done as this is much more sustainable over longer periods of time as it is important to be able to pace your work. As my role of a product manager it is important for me to improve in all forms of communication and as Agile has an importance on face-to-face communication this will help me develop this skill at a professional level. 
+
+**Scrum and Kanban**  
+Kanban uses a storyboard method for a visual representation of the work tasks that needs to be completed, this breaks the tasks into different sections of to-do, being worked on, completed, and more maybe additional backlog and on-hold. Scrum is a way of setting tasks to complete within a sprint window and commits to the completion of these tasks. I think the main difference is that Kanban is more day to day ongoing as you are not committed to a set of tasks that are set before a sprint begins with a set end date, but lets you instead doesn't have a set date and promotes quicker completion so that you can pick up new tasks.
+
+'Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.' is the principle I think will be most useful because it is important that a product manager remembers that you are designing the product for the user not yourself (in some cases you can be a user but not the only one). 
