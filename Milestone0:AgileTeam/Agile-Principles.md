@@ -1,0 +1,8 @@
+# Agile Pinciples
+
+**What do you think are the biggest benefits and challenges of Agile?**  
+I think the biggest benefits of Agile are the structured organisation that it provides to the team members and the work they produce, as it is important to stage tasks incrementally to keep work ongoing. It is also easy to adapt to new tasks that are required and gives a way of being flexible with what is delivered, this lets them be able to prioritize tasks importance so that anything critical can be completed quickly. 
+Agile can be overwhelming for some as continuous communication and work is important for the framework, and some people prefer a structure unlike this, so getting someone who is unfamiliar with Agile could take some time getting used to it. There is a need for people to 'buy in' to this structure so that the daily scrums, sprints, and their planning/review/retrospective are all effective, if team members don't put in effort to the structure it might not have the intended outcome and lead to unproductive work.
+
+**How can Agile principles help improve your role and responsibilities?**  
+It can help me as they show that its important to plan out work and have set goals/deliverables but to also be flexible and have the ability to adapt to new problems or tasks so that you are able to deal with anything critical when it comes up. It also helps with getting continuous work done as this is much more sustainable over longer periods of time as it is important to be able to pace your work. As my role of a product manager it is important for me to improve in all forms of communication and as Agile has an importance on face-to-face communication this will help me develop this skill at a professional level. 
