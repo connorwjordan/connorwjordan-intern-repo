@@ -1,1 +1,1 @@
-This is a test file to simulate a merge conflict.
+Changes on the branch MergeConflict for testing purposes.
