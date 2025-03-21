@@ -26,3 +26,18 @@ I accepted the changes that had been made in main and the changes that had been 
 
 **What did you learn?**  
 That using branches is important for review as if multiple people all made changes to main then whoever did the last change would always overwrite the other changes. I was also able to test the merge feature in the VScode client and the merge viewer to see how I can use this when I face real merge conflicts with my work.
+
+**What does each command do?**  
+```git checkout main -- <file>``` is used to restore or add a specific file from the main branch to your current working branch while not affecting other files or changes.
+```git cherry-pick <commit>``` lets you merge in a specific commit from another branch without merging the entire branch.
+```git log``` allows you to see a history of the commits, who authored them, when they were committed, and the commit messages.
+```git blame <file>``` allows you to see the who made changes to a file line by line as well as commit information about those changes.
+
+**When would you use it in a real project (hint: these are all really important in long running projects with multiple developers)?**  
+```git checkout main -- <file>``` would be used if I made changes to a file that were unwanted or by accident that would let me restore it to the original from the main branch.
+```git cherry-pick <commit>``` if a commit from another branch was releveant to the work I was doing on the current branch that would let me create a new commit in the current branch containing the same changes.
+```git log``` if I wanted to see who was commiting to a branch if something unexpencted was changed.
+```git blame <file>``` if I want to know who made changes to specific lines of code, in case something was wrong or unexpected, so that you can follow up with them why the changes were made.
+
+**What surprised you while testing these commands?**  
+```git cherry-pick``` make a copy of the commit so that can be unwanted as there are 2 commits that perform the same thing. You can also use ```git blame``` on this file to see the same information about the author the commit that it was last changed in each line.
