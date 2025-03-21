@@ -8,3 +8,11 @@ When committing to a branch you want to have a clear history of the changes with
 
 **When would you want to stage changes without committing?**  
 You would want to stage changes that you've made to a file but before making changes to another file that is also relevant to the issue you are fixing so that once those changes are made, they can be staged and committed together.
+
+**Why is pushing directly to main problematic?**  
+This is because the changes you have made have not been reviewed by anyone and making these direct changes to main could cause problems with the ongoing service that the repo provides.
+
+**How do branches help with reviewing code?**  
+Branches help by letting you see how the changes that you've made would fit into the main repo.
+
+**What happens if two people edit the same file on different branches?**  
