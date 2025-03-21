@@ -1,1 +1,1 @@
-This is a test file to simulate a merge conflict.
+Changes to MergeConflict.md on main to check branch against.
