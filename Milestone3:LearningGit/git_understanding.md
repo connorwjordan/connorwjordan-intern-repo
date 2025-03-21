@@ -19,9 +19,10 @@ Branches help by letting you see how the changes that you've made would fit into
 Those two branches will not interact with each other until pull requests are submitted and then you can end up with merge conflicts that will needed to be resolved before that PR is able to be merged into main.
 
 **What caused the conflict?**  
-
+Changes were made to the same file that would interact with each other and needed to be resolved before the branch could be merged into main.
 
 **How did you resolve it?**  
-
+I accepted the changes that had been made in main and the changes that had been made in the branch were removed.
 
 **What did you learn?**  
+That using branches is important for review as if multiple people all made changes to main then whoever did the last change would always overwrite the other changes. I was also able to test the merge feature in the VScode client and the merge viewer to see how I can use this when I face real merge conflicts with my work.
