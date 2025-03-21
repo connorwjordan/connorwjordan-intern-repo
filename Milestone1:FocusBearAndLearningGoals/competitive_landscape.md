@@ -10,4 +10,3 @@ I would choose Focus Bear because of the combination of features allows me to us
 Cold Turkey allows you to set a schedule on when blocking is enbaled so that you can have pre determined working hours and have different levels of access depending on if you want to block specific applications as well like games.
 
 **Based on your research, what’s one improvement you think Focus Bear could make?**  
-I think allowing you to set time blocks that should enforce harsh blocking that you can set that will contain the focus sessions within, so that each focus session isn't as individual but in a larger block of time.
