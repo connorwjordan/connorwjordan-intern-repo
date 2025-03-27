@@ -55,6 +55,6 @@ If reviewing a large amount of commits it can be much quicker as you don't need 
 A good commit message is clear and brief, and anyone who reads it should be able to easily understand what has been changed or introduced.
 
 **How does a clear commit message help in team collaboration?**  
-
+It helps other understand what has been commited when they are reviewing commits, if you write the commit messages in a way only you understand it can be frustrating and could cause problems if team members are unable to locate the commit or know what has been commited.
 
 **How can poor commit messages cause issues later?**  
