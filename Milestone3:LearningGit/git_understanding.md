@@ -41,3 +41,12 @@ That using branches is important for review as if multiple people all made chang
 
 **What surprised you while testing these commands?**  
 ```git cherry-pick``` make a copy of the commit so that can be unwanted as there are 2 commits that perform the same thing. You can also use ```git blame``` on this file to see the same information about the author the commit that it was last changed in each line.
+
+**What does git bisect do?**  
+git bisect is a command that assists in finding in which commit a change was made, usually a bug but can also just be a positive change as well, by setting a starting point as good (before the bug was introduced) and bad (after the bug was introduced) and picks a point in the middle to test if the bug was included in this commit and let you assign that commit as good or bad, this occurs until the commit including the change is found.
+
+**When would you use it in a real-world debugging situation?**  
+When you want to determine who introduced the bug so that you can determine the cause, be malicious or by accident, as well as you can see if the commit brought in any other similar bugs that have gone un-noticed. 
+
+**How does it compare to manually reviewing commits?**  
+If reviewing a large amount of commits it can be much quicker as you don't need to sort through them yourself especially if you have a script that can determine if a commit is good or bad, however when reviewing a short amount with good commit messages sometimes it can be just as fast to quickly go through the commits to find the error.
