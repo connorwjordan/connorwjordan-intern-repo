@@ -50,3 +50,11 @@ When you want to determine who introduced the bug so that you can determine the 
 
 **How does it compare to manually reviewing commits?**  
 If reviewing a large amount of commits it can be much quicker as you don't need to sort through them yourself especially if you have a script that can determine if a commit is good or bad, however when reviewing a short amount with good commit messages sometimes it can be just as fast to quickly go through the commits to find the error.
+
+**What makes a good commit message?**  
+A good commit message is clear and brief, and anyone who reads it should be able to easily understand what has been changed or introduced.
+
+**How does a clear commit message help in team collaboration?**  
+
+
+**How can poor commit messages cause issues later?**  
