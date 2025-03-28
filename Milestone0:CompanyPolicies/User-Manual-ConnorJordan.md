@@ -2,11 +2,11 @@
 
 My role
 I am working on my onboarding tasks as a product manager intern.
-The days and times I work are: Friday 10am - 
+The days and times I work are: Friday 10am - 5pm, all throughout the week I am open to responding to messages and other tasks
 
 How I Work Best
-I do my best work when I am able to sleep well the night before, after physical exercise like shooting around with a basketball or going for a walk. I am able to work well when there is a clear goal I am able to set and work towards and when there is a 
-I struggle when I am not engaged with the work I am doing, and when I am being distracted non work related things, such as social media and loud working environments.
+I do my best work when I am able to sleep well the night before, after physical exercise like shooting around with a basketball or going for a walk. I am able to work well when there is a clear goal I am able to set and work towards. When team members are also working well it helps create a positive work environment that I'm able to focus in.
+I struggle when I am not engaged with the work I am doing, and when I am being distracted non work related things such as social media and loud working environments.
 
 Communication Style
 I prefer messages to be direct and to the point so that I can answer the specific problem that you need, and also include any details that you think are relevant. 
@@ -25,7 +25,7 @@ I am thinking about something else, distracted, or am uneasy about if I am able 
 
 Focus & Productivity
 I stay focused by…
-Trying to exclude distractions and taking walks before working
+Trying to exclude distractions from my work area and taking walks before working.
 
 Things that distract me…
 My phone and social media, and sometimes just drifting off.
