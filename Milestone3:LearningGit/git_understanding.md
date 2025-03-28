@@ -59,3 +59,12 @@ It helps other understand what has been commited when they are reviewing commits
 
 **How can poor commit messages cause issues later?**  
 Vague commit messages can cause misunderstanding on what has been changed in a commit so that on review they might not be able to find a commit due to not using keywords to do with the fix/change, they might also overlook a commit they think is insignificant if a commit message is poorly labled as a formatting fix that included logic changes that introduces a bug. 
+
+**Why are PRs important in a team workflow?**  
+They are important for peer review before commiting any changes to main, this is because there could be unspotted bugs or changes that are unwanted to the repo. All PRs should be reviewed by an authorised member before being approved and merged into main so that branches are not force merged into main.
+
+**What makes a well-structured PR?**  
+Clearly states what has been changed in the title, while the description has additional information about why these changes are being made. A good PR also has any related issues linked to it so that they can be closed on merge so that every part of the repo is up to date with changes, this also gives more context to why the changes are being made.
+
+**What did you learn from reviewing an open-source PR?**  
+I reviewed a React PR and they use a few bots to determine labels that are related to the PR as well as significantly more checks are used to run against the changes to determine if it is a valid PR. They also use a bot to notify file size changes for critical production bundles as well as changes that are over 0.2%.
