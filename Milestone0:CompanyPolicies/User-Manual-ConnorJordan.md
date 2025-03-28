@@ -1,6 +1,6 @@
 # User Manual for Connor Jordan
 
-My role
+My role  
 I am working on my onboarding tasks as a product manager intern.
 The days and times I work are: Friday 10am - 5pm, all throughout the week I am open to responding to messages and other tasks
 
